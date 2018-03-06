@@ -1,11 +1,4 @@
 
-#about {
-    background-color: blue;
-}
-
-.about {
-    background-color: aliceblue;
-}
 
 .myInfo {
     font-family: sans-serif;
@@ -13,4 +6,8 @@
     display: inline-block;
     vertical-align: middle;
     float: none;
+}
+
+.centered-and-cropped {
+    object-fit: cover
 }
